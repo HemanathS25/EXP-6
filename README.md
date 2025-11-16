@@ -28,6 +28,12 @@ PRECAUTION: -
 
 ![WhatsApp Image 2025-11-11 at 12 05 06_038165ec](https://github.com/user-attachments/assets/54ebea4c-8f72-48ef-a858-b27b5af5b0cc)
 
-   
+OBSERVATION TABLE:
+
+<img width="586" height="253" alt="image" src="https://github.com/user-attachments/assets/a647bf4e-ba66-4213-83b8-227a6923d17b" />
+
+OUTPUT:
+
+<img width="863" height="488" alt="image" src="https://github.com/user-attachments/assets/c6bbcb1d-b362-41e4-bfe6-58110219f5ef" />
 
 RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
